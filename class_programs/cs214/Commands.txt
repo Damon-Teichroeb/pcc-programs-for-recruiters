@@ -1,0 +1,2 @@
+c99 programXX.c -o programXX.exe -lm
+./programXX.exe
